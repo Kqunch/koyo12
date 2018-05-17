@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'k!mad') {
-    	message.reply('https://gyazo.com/a332761c7777d2b84ad45610d59233b1');
+    	message.reply('https://gyazo.com/9802d086e8974968842bd76373350499');
   	}
 });
 
