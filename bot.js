@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'k!mad') {
-    	message.reply('https://gyazo.com/9802d086e8974968842bd76373350499');
+    if (message.content === 'k!life') {
+    	message.reply('https://i.gyazo.com/9279aefaf06a54f51befe0af7328e292.gif');
   	}
 });
 
