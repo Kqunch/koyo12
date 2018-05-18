@@ -27,8 +27,6 @@ client.on('message', message => {
       message.reply('https://www.animegg.org/series/dragonball-z');
     } else if (msg === 'k!pokemon') {
       message.reply('https://www.animegg.org/search?search=pokemon');
-    } else if (msg === 'k!conan') {
-      message.reply('https://www.animegg.org/series/detectiveconan);
     
     }
 });
