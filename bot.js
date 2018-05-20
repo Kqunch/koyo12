@@ -14,7 +14,7 @@ client.on('message', message => {
     } else if (msg === 'k!re:zero') {
       message.reply('https://www.watchcartoononline.io/anime/re-zero-kara-hajimeru-isekai-seikatsu-english-subbed');
     } else if (msg === 'k!help') {
-      message.reply('This is an anime bot! PLEASE USE THE COMMAND STARTING WITH k!(anime name) WATCH ANIME ONLINE!');
+      message.reply('This is an anime bot! Please use the command starting with k! then put your favorite anime name. WATCH ANIME ONLINE!');
     } else if (msg === 'k!list') {
       message.reply('assassination classroom, blend s, re:zero, sao');
     } else if (msg === 'k!sao') {
