@@ -7,8 +7,8 @@ client.on('ready', () => {
 
 client.on('message', message => {
     var msg = message.content.toLowerCase();
-    if (msg === 'k!assassination classroom') {
-      message.reply('https://www.watchcartoononline.io/anime/assassination-classroom-english-subbed');
+    if (msg === 'k!chilis') {
+      message.reply('https://www.chilis.com/menu');
     } else if (msg === 'k!blend s') {
       message.reply('https://https://www.watchcartoononline.io/anime/blend-s-english-subbed');
     } else if (msg === 'k!re:zero') {
